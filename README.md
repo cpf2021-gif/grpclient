@@ -1,3 +1,4 @@
 # grpclient
-grpc client Terminal tool for testing grpc services
-<img width="600" src="./demo.gif">
+`grpclient` is gRPC command line client for testing grpc services
+
+![](./demo.gif)
