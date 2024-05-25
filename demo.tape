@@ -57,10 +57,10 @@
 
 Output demo.gif
 
-Set FontSize 32
+Set FontSize 40
 
-Set Width 2200
-Set Height 350
+Set Width 1600
+Set Height 600
 
 Require "grpclient"
 
